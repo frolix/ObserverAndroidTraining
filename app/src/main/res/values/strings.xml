@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LiveData</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_number_edit">First Number Edit</string>
+    <string name="second_number_edit">Second Number Edit</string>
+    <string name="zero_error">Division by zero is not allow</string>
+</resources>
